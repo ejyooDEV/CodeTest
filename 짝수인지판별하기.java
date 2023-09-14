@@ -12,7 +12,6 @@ public class 짝수인지판별하기 {
     }
 
     int userInput_i = Integer.parseInt(userInput_s);
-
     boolean result = isEven(userInput_i);
 
     if (result) {
